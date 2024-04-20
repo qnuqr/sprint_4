@@ -70,4 +70,5 @@ public class HomePage {
         WebElement element = driver.findElement(By.xpath(String.format(answerLocator, expectedAnswer)));
         return element.isDisplayed();
     }
+
 }
