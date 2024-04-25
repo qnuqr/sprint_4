@@ -1,5 +1,4 @@
 package tests;
-
 import driver_config.DriverConfig;
 import org.junit.After;
 import org.junit.Before;

@@ -26,7 +26,6 @@ public class DriverConfig {
         return new ChromeDriver(options);
     }
 
-
     public WebDriver setFireFoxDriver() {
         WebDriverManager.firefoxdriver().setup();
         FirefoxOptions options = new FirefoxOptions();

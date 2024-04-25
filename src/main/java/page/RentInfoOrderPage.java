@@ -95,4 +95,5 @@ public class RentInfoOrderPage {
         clickSeeOrderButton();
         checkOrderStatus();
     }
+
 }

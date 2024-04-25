@@ -47,7 +47,6 @@ public class OrderScooterTest {
         driverConfig.navigateToUrl(driver);
     }
 
-
     @Test
     public void checkOrderScooterThroughButoon2() {
         HomePage homePage = new HomePage(driver);
